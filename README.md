@@ -1,5 +1,5 @@
 # MilaFinder
-Alguna vez te paso que vives en el centro de la ciudad y estas rodeado de restaurantes y no quieres ir buscando restaurante por restaurante la comida que quieres en PedidosYa y sientes que las categorias son muy genericas?
+Alguna vez te paso que vives en el medio de la ciudad y estas rodeado de restaurantes y no quieres ir buscando restaurante por restaurante la comida que quieres en PedidosYa?
 
 Esta aplicacion nos ayuda a buscar comida que queramos cerca nuestro y filtrar los resultados para conseguir la mejor comida al mejor precio posible
 
