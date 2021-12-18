@@ -8,10 +8,10 @@ Esta aplicacion nos ayuda a buscar comida que queramos cerca nuestro y filtrar l
 - Buscar sin texto para ver todas las comidas y buscar el plato mas barato que se pueda conseguir
 - Buscar comida para varias personas ('para X personas')
 
-# Usage
+# Descarga
  Descarga desde aqui: https://github.com/Santiagorich/MilaFinder/releases/download/release/MilaFinder.apk
  
-# Screenshots!
+# Capturas!
 <img src="https://user-images.githubusercontent.com/48382642/146652359-c59c9129-d918-4620-a208-4c24aab2ab49.png" width="500">
 
 # TO DO
