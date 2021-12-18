@@ -15,4 +15,4 @@ Esta aplicacion nos ayuda a buscar comida que queramos cerca nuestro y filtrar l
 <img src="https://user-images.githubusercontent.com/48382642/146652359-c59c9129-d918-4620-a208-4c24aab2ab49.png" width="500">
 
 # TO DO
- Publish to Play Store and AppStore... at some point
+ Publish on Play Store and AppStore... at some point
